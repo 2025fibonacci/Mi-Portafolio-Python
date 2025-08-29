@@ -28,3 +28,4 @@ resultado = {True:"sí",False:"no"}
 print(f'La plabra python aparece en el texto? {resultado["python" in texto.lower()]}')
 ```
 
+[Analizador de texto](https://github.com/2025fibonacci/Mi-Portafolio-Python/blob/main/81-Analizador-de-texto.py)
